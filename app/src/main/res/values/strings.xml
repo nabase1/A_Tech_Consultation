@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A Tech Consultation</string>
+
+    <string name="db_node_user">Users</string>
+</resources>

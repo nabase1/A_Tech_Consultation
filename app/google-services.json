@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174947546479",
+    "firebase_url": "https://a-tech-consultation.firebaseio.com",
+    "project_id": "a-tech-consultation",
+    "storage_bucket": "a-tech-consultation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174947546479:android:6976f73f4094d3eeeae49a",
+        "android_client_info": {
+          "package_name": "com.nabase1.atechconsultation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174947546479-0am1h67844nc14fjl88u7e93pup1fuau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRViZ3gnMlRvyRZzyBlbBD4s41jd5giKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174947546479-0am1h67844nc14fjl88u7e93pup1fuau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

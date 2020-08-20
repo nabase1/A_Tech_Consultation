@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/main_menu"
+        android:title="Main Menu"
+        android:icon="@drawable/ic_more_vert_24"
+        app:showAsAction="always">
+
+        <menu>
+            <item android:id="@+id/item_chat"
+                android:title="Chat"
+                app:showAsAction="never"/>
+
+            <item android:id="@+id/item_logout"
+                android:title="Log Out"
+                app:showAsAction="never"/>
+
+
+            <item android:id="@+id/item_settings"
+                android:title="Settings"
+                app:showAsAction="never"/>
+
+        </menu>
+
+    </item>
+
+</menu>
